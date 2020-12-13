@@ -29,7 +29,7 @@ local getChar = function()
     return lPlayer.Character or lPlayer.CharacterAdded:Wait()
 end
 local mouse = lPlayer:GetMouse()
-local lib = loadstring(readfile("uilib.lua"))() -- TODO: PUT THE REAL UILIB URL
+local lib = loadstring(get(nil, "https://raw.githubusercontent.com/Deepsn/projects/main/uilib.lua"))()
 local worldRoot = workspace
 local aimbot = lib:Window("Aimbot")
 local camera = worldRoot.CurrentCamera
