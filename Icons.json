@@ -1,4 +1,4 @@
-{
+[
    {
       "Name":"Accoutrement",
       "Image":"rbxasset://textures/ClassImages.png",
@@ -2123,4 +2123,4 @@
          0
       ]
    }
-}
+]
