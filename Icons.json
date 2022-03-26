@@ -1,2126 +1,2887 @@
-[
-   {
-      "Name":"Accoutrement",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         512,
-         0
-      ]
-   },
-   {
-      "Name":"Accessory",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         512,
-         0
-      ]
-   },
-   {
-      "Name":"Animation",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         960,
-         0
-      ]
-   },
-   {
-      "Name":"AnimationController",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         960,
-         0
-      ]
-   },
-   {
-      "Name":"AnimationTrack",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         960,
-         0
-      ]
-   },
-   {
-      "Name":"Attachment",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1296,
-         0
-      ]
-   },
-   {
-      "Name":"CoreGui",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         736,
-         0
-      ]
-   },
-   {
-      "Name":"PlayerGui",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         736,
-         0
-      ]
-   },
-   {
-      "Name":"StarterGui",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         736,
-         0
-      ]
-   },
-   {
-      "Name":"Beam",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1536,
-         0
-      ]
-   },
-   {
-      "Name":"BindableEvent",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1072,
-         0
-      ]
-   },
-   {
-      "Name":"BindableFunction",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1056,
-         0
-      ]
-   },
-   {
-      "Name":"BodyAngularVelocity",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         224,
-         0
-      ]
-   },
-   {
-      "Name":"BodyForce",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         224,
-         0
-      ]
-   },
-   {
-      "Name":"BodyGyro",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         224,
-         0
-      ]
-   },
-   {
-      "Name":"BodyPosition",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         224,
-         0
-      ]
-   },
-   {
-      "Name":"BodyThrust",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         224,
-         0
-      ]
-   },
-   {
-      "Name":"BodyVelocity",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         224,
-         0
-      ]
-   },
-   {
-      "Name":"RocketPropulsion",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         224,
-         0
-      ]
-   },
-   {
-      "Name":"Camera",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         80,
-         0
-      ]
-   },
-   {
-      "Name":"CharacterMesh",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         960,
-         0
-      ]
-   },
-   {
-      "Name":"Pants",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         704,
-         0
-      ]
-   },
-   {
-      "Name":"Shirt",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         688,
-         0
-      ]
-   },
-   {
-      "Name":"ShirtGraphic",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         640,
-         0
-      ]
-   },
-   {
-      "Name":"Chat",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         528,
-         0
-      ]
-   },
-   {
-      "Name":"ClickDetector",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         656,
-         0
-      ]
-   },
-   {
-      "Name":"Configuration",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         928,
-         0
-      ]
-   },
-   {
-      "Name":"Constraint",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1376,
-         0
-      ]
-   },
-   {
-      "Name":"AlignOrientation",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1600,
-         0
-      ]
-   },
-   {
-      "Name":"AlignPosition",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1584,
-         0
-      ]
-   },
-   {
-      "Name":"BallSocketConstraint",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1376,
-         0
-      ]
-   },
-   {
-      "Name":"HingeConstraint",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1392,
-         0
-      ]
-   },
-   {
-      "Name":"LineForce",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1616,
-         0
-      ]
-   },
-   {
-      "Name":"RodConstraint",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1440,
-         0
-      ]
-   },
-   {
-      "Name":"RopeConstraint",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1424,
-         0
-      ]
-   },
-   {
-      "Name":"SlidingBallConstraint",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1408,
-         0
-      ]
-   },
-   {
-      "Name":"CylindricalConstraint",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1520,
-         0
-      ]
-   },
-   {
-      "Name":"PrismaticConstraint",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1408,
-         0
-      ]
-   },
-   {
-      "Name":"SpringConstraint",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1456,
-         0
-      ]
-   },
-   {
-      "Name":"Torque",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1648,
-         0
-      ]
-   },
-   {
-      "Name":"VectorForce",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1632,
-         0
-      ]
-   },
-   {
-      "Name":"CorePackages",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         320,
-         0
-      ]
-   },
-   {
-      "Name":"BlockMesh",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         128,
-         0
-      ]
-   },
-   {
-      "Name":"SpecialMesh",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         128,
-         0
-      ]
-   },
-   {
-      "Name":"Debris",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         480,
-         0
-      ]
-   },
-   {
-      "Name":"Dialog",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         992,
-         0
-      ]
-   },
-   {
-      "Name":"DialogChoice",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1008,
-         0
-      ]
-   },
-   {
-      "Name":"Explosion",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         576,
-         0
-      ]
-   },
-   {
-      "Name":"Decal",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         112,
-         0
-      ]
-   },
-   {
-      "Name":"Texture",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         160,
-         0
-      ]
-   },
-   {
-      "Name":"Fire",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         976,
-         0
-      ]
-   },
-   {
-      "Name":"Folder",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1232,
-         0
-      ]
-   },
-   {
-      "Name":"ForceField",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         592,
-         0
-      ]
-   },
-   {
-      "Name":"Frame",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         768,
-         0
-      ]
-   },
-   {
-      "Name":"GuiButton",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         832,
-         0
-      ]
-   },
-   {
-      "Name":"ImageButton",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         832,
-         0
-      ]
-   },
-   {
-      "Name":"TextButton",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         816,
-         0
-      ]
-   },
-   {
-      "Name":"ImageLabel",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         784,
-         0
-      ]
-   },
-   {
-      "Name":"TextLabel",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         800,
-         0
-      ]
-   },
-   {
-      "Name":"ScrollingFrame",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         768,
-         0
-      ]
-   },
-   {
-      "Name":"TextBox",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         816,
-         0
-      ]
-   },
-   {
-      "Name":"BillboardGui",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1024,
-         0
-      ]
-   },
-   {
-      "Name":"ScreenGui",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         752,
-         0
-      ]
-   },
-   {
-      "Name":"SurfaceGui",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1024,
-         0
-      ]
-   },
-   {
-      "Name":"BoxHandleAdornment",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1776,
-         0
-      ]
-   },
-   {
-      "Name":"ConeHandleAdornment",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1760,
-         0
-      ]
-   },
-   {
-      "Name":"CylinderHandleAdornment",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1744,
-         0
-      ]
-   },
-   {
-      "Name":"ImageHandleAdornment",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1728,
-         0
-      ]
-   },
-   {
-      "Name":"LineHandleAdornment",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1712,
-         0
-      ]
-   },
-   {
-      "Name":"SphereHandleAdornment",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1792,
-         0
-      ]
-   },
-   {
-      "Name":"SelectionBox",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         864,
-         0
-      ]
-   },
-   {
-      "Name":"SelectionSphere",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         864,
-         0
-      ]
-   },
-   {
-      "Name":"ArcHandles",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         896,
-         0
-      ]
-   },
-   {
-      "Name":"Handles",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         848,
-         0
-      ]
-   },
-   {
-      "Name":"SurfaceSelection",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         880,
-         0
-      ]
-   },
-   {
-      "Name":"Backpack",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         320,
-         0
-      ]
-   },
-   {
-      "Name":"Tool",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         272,
-         0
-      ]
-   },
-   {
-      "Name":"StarterPack",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         320,
-         0
-      ]
-   },
-   {
-      "Name":"Humanoid",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         144,
-         0
-      ]
-   },
-   {
-      "Name":"JointInstance",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         544,
-         0
-      ]
-   },
-   {
-      "Name":"Motor6D",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1696,
-         0
-      ]
-   },
-   {
-      "Name":"Snap",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         544,
-         0
-      ]
-   },
-   {
-      "Name":"Weld",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         544,
-         0
-      ]
-   },
-   {
-      "Name":"Keyframe",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         960,
-         0
-      ]
-   },
-   {
-      "Name":"Light",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         208,
-         0
-      ]
-   },
-   {
-      "Name":"PointLight",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         208,
-         0
-      ]
-   },
-   {
-      "Name":"SpotLight",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         208,
-         0
-      ]
-   },
-   {
-      "Name":"SurfaceLight",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         208,
-         0
-      ]
-   },
-   {
-      "Name":"Lighting",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         208,
-         0
-      ]
-   },
-   {
-      "Name":"LocalizationService",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1472,
-         0
-      ]
-   },
-   {
-      "Name":"LocalizationTable",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1552,
-         0
-      ]
-   },
-   {
-      "Name":"Script",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         96,
-         0
-      ]
-   },
-   {
-      "Name":"LocalScript",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         288,
-         0
-      ]
-   },
-   {
-      "Name":"ModuleScript",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1216,
-         0
-      ]
-   },
-   {
-      "Name":"MarketplaceService",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         736,
-         0
-      ]
-   },
-   {
-      "Name":"NetworkClient",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         256,
-         0
-      ]
-   },
-   {
-      "Name":"NetworkServer",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         240,
-         0
-      ]
-   },
-   {
-      "Name":"NetworkReplicator",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         464,
-         0
-      ]
-   },
-   {
-      "Name":"CornerWedgePart",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         16,
-         0
-      ]
-   },
-   {
-      "Name":"Part",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         16,
-         0
-      ]
-   },
-   {
-      "Name":"Platform",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         560,
-         0
-      ]
-   },
-   {
-      "Name":"Seat",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         560,
-         0
-      ]
-   },
-   {
-      "Name":"SpawnLocation",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         400,
-         0
-      ]
-   },
-   {
-      "Name":"WedgePart",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         16,
-         0
-      ]
-   },
-   {
-      "Name":"MeshPart",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1168,
-         0
-      ]
-   },
-   {
-      "Name":"NegateOperation",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1152,
-         0
-      ]
-   },
-   {
-      "Name":"UnionOperation",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1168,
-         0
-      ]
-   },
-   {
-      "Name":"Terrain",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1040,
-         0
-      ]
-   },
-   {
-      "Name":"TrussPart",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         16,
-         0
-      ]
-   },
-   {
-      "Name":"VehicleSeat",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         560,
-         0
-      ]
-   },
-   {
-      "Name":"Model",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         32,
-         0
-      ]
-   },
-   {
-      "Name":"Workspace",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         304,
-         0
-      ]
-   },
-   {
-      "Name":"PackageLink",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1568,
-         0
-      ]
-   },
-   {
-      "Name":"ParticleEmitter",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1280,
-         0
-      ]
-   },
-   {
-      "Name":"Player",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         192,
-         0
-      ]
-   },
-   {
-      "Name":"PlayerScripts",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1248,
-         0
-      ]
-   },
-   {
-      "Name":"Players",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         336,
-         0
-      ]
-   },
-   {
-      "Name":"Plugin",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1376,
-         0
-      ]
-   },
-   {
-      "Name":"PluginGuiService",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         736,
-         0
-      ]
-   },
-   {
-      "Name":"Pose",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         960,
-         0
-      ]
-   },
-   {
-      "Name":"BloomEffect",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1328,
-         0
-      ]
-   },
-   {
-      "Name":"BlurEffect",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1328,
-         0
-      ]
-   },
-   {
-      "Name":"ColorCorrectionEffect",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1328,
-         0
-      ]
-   },
-   {
-      "Name":"SunRaysEffect",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1328,
-         0
-      ]
-   },
-   {
-      "Name":"RemoteEvent",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1200,
-         0
-      ]
-   },
-   {
-      "Name":"RemoteFunction",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1184,
-         0
-      ]
-   },
-   {
-      "Name":"RenderingTest",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         80,
-         0
-      ]
-   },
-   {
-      "Name":"ReplicatedFirst",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1120,
-         0
-      ]
-   },
-   {
-      "Name":"ReplicatedStorage",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1120,
-         0
-      ]
-   },
-   {
-      "Name":"ServerScriptService",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1136,
-         0
-      ]
-   },
-   {
-      "Name":"ServerStorage",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1104,
-         0
-      ]
-   },
-   {
-      "Name":"Sky",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         448,
-         0
-      ]
-   },
-   {
-      "Name":"Smoke",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         944,
-         0
-      ]
-   },
-   {
-      "Name":"Sound",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         176,
-         0
-      ]
-   },
-   {
-      "Name":"ChorusSoundEffect",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1344,
-         0
-      ]
-   },
-   {
-      "Name":"CompressorSoundEffect",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1344,
-         0
-      ]
-   },
-   {
-      "Name":"DistortionSoundEffect",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1344,
-         0
-      ]
-   },
-   {
-      "Name":"EchoSoundEffect",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1344,
-         0
-      ]
-   },
-   {
-      "Name":"EqualizerSoundEffect",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1344,
-         0
-      ]
-   },
-   {
-      "Name":"FlangeSoundEffect",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1344,
-         0
-      ]
-   },
-   {
-      "Name":"PitchShiftSoundEffect",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1344,
-         0
-      ]
-   },
-   {
-      "Name":"ReverbSoundEffect",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1344,
-         0
-      ]
-   },
-   {
-      "Name":"TremoloSoundEffect",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1344,
-         0
-      ]
-   },
-   {
-      "Name":"SoundGroup",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1360,
-         0
-      ]
-   },
-   {
-      "Name":"SoundService",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         496,
-         0
-      ]
-   },
-   {
-      "Name":"Sparkles",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         672,
-         0
-      ]
-   },
-   {
-      "Name":"StarterGear",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         320,
-         0
-      ]
-   },
-   {
-      "Name":"StarterPlayer",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1264,
-         0
-      ]
-   },
-   {
-      "Name":"StarterPlayerScripts",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1248,
-         0
-      ]
-   },
-   {
-      "Name":"StarterCharacterScripts",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1248,
-         0
-      ]
-   },
-   {
-      "Name":"Team",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         384,
-         0
-      ]
-   },
-   {
-      "Name":"Teams",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         368,
-         0
-      ]
-   },
-   {
-      "Name":"TerrainRegion",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1040,
-         0
-      ]
-   },
-   {
-      "Name":"TestService",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1088,
-         0
-      ]
-   },
-   {
-      "Name":"TouchTransmitter",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         592,
-         0
-      ]
-   },
-   {
-      "Name":"Trail",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1488,
-         0
-      ]
-   },
-   {
-      "Name":"UIAspectRatioConstraint",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         416,
-         0
-      ]
-   },
-   {
-      "Name":"UISizeConstraint",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         416,
-         0
-      ]
-   },
-   {
-      "Name":"UITextSizeConstraint",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         416,
-         0
-      ]
-   },
-   {
-      "Name":"UIGridLayout",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         416,
-         0
-      ]
-   },
-   {
-      "Name":"UIListLayout",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         416,
-         0
-      ]
-   },
-   {
-      "Name":"UIPageLayout",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         416,
-         0
-      ]
-   },
-   {
-      "Name":"UITableLayout",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         416,
-         0
-      ]
-   },
-   {
-      "Name":"UIPadding",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         416,
-         0
-      ]
-   },
-   {
-      "Name":"UIScale",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         416,
-         0
-      ]
-   },
-   {
-      "Name":"ValueBase",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         64,
-         0
-      ]
-   },
-   {
-      "Name":"BoolValue",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         64,
-         0
-      ]
-   },
-   {
-      "Name":"BrickColorValue",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         64,
-         0
-      ]
-   },
-   {
-      "Name":"CFrameValue",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         64,
-         0
-      ]
-   },
-   {
-      "Name":"Color3Value",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         64,
-         0
-      ]
-   },
-   {
-      "Name":"IntValue",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         64,
-         0
-      ]
-   },
-   {
-      "Name":"NumberValue",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         64,
-         0
-      ]
-   },
-   {
-      "Name":"ObjectValue",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         64,
-         0
-      ]
-   },
-   {
-      "Name":"RayValue",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         64,
-         0
-      ]
-   },
-   {
-      "Name":"StringValue",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         64,
-         0
-      ]
-   },
-   {
-      "Name":"Vector3Value",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         64,
-         0
-      ]
-   },
-   {
-      "Name":"WeldConstraint",
-      "Image":"rbxasset://textures/ClassImages.png",
-      "ImageRectSize":[
-         16,
-         16
-      ],
-      "ImageRectOffset":[
-         1504,
-         0
-      ]
+{
+   "CFrameValue":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(64, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "RunningAverageTimeIntervalItem":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TemporaryCageMeshProvider":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Vector3Value":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(64, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "BevelMesh":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "RotateP":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DebuggerLuaResponse":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "OrderedDataStore":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PhysicsSettings":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "AnimationFromVideoCreatorService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "SlidingBallConstraint":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1408, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Accoutrement":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(512, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "RenderingTest":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(80, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ValueBase":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(64, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TracerService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "CustomEventReceiver":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(64, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Highlight":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(2128, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "StarterGui":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(736, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "CrossDMScriptChangeListener":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ChorusSoundEffect":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1344, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TouchInputService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ImporterGroupSettings":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "BulkImportService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Team":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(384, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "BackpackItem":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "LuaSettings":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "FriendService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PluginManagerInterface":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PluginGuiService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(736, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ReflectionMetadataItem":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "BallSocketConstraint":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1376, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ModuleScript":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1216, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ImporterRootSettings":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DebuggablePluginWatcher":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Vector3Curve":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "BrickColorValue":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(64, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ReflectionMetadataFunctions":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "HSRDataContentProvider":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "SpawnerService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PluginGui":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DebuggerManager":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "UserGameSettings":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "NumberPose":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(960, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "BasePart":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "StarterCharacterScripts":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1248, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Teams":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(368, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "AdvancedDragger":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "GuiMain":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(752, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "LineHandleAdornment":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1712, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "UIListLayout":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(416, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Players":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(336, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "VideoFrame":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1920, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "AnimationController":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(960, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "StarterPlayer":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1264, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "VectorForce":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1632, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DataModel":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "UITextSizeConstraint":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(416, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "CustomEvent":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(64, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ArcHandles":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(896, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "HumanoidController":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "WorldModel":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(304, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "MemoryStoreSortedMap":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "MeshContentProvider":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "UIPadding":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(416, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ImageLabel":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(784, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Explosion":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(576, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "AlignOrientation":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1600, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Handles":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(848, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "StandardPages":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ChatWindowConfiguration":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(2256, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Hole":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ReflectionMetadataClasses":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ObjectValue":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(64, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "CSGDictionaryService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TextSource":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(2224, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PartOperationAsset":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "LodDataService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "UIScale":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(416, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DebuggerConnectionManager":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "HapticService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "GameSettings":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "SelectionPartLasso":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(912, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "MessagingService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "SessionService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TerrainRegion":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1040, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "SocialService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Accessory":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(512, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "NoCollisionConstraint":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1680, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "CoreGui":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(736, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Attachment":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1296, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ReflectionMetadataEvents":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "GuiLabel":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "BindableEvent":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1072, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PVAdornment":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "HumanoidDescription":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1664, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "AppStorageService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "KeyframeSequence":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "NetworkPeer":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PhysicsService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "AssetImportService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "CoreScriptSyncService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TimerService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "MessageBusService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ServerScriptService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1136, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "WrapTarget":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(2032, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ViewportFrame":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(832, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "BillboardGui":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1024, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "FormFactorPart":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PointsService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Feature":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "FlangeSoundEffect":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1344, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PermissionsService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "EventIngestService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "BodyThrust":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(224, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "GuiBase2d":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Part":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(16, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "GuiButton":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(832, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "RemoteDebuggerServer":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "JointsService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "SpecialMesh":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(128, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "GuiBase":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "MetaBreakpointContext":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Path":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "BodyGyro":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(224, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Sky":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(448, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "WrapLayer":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(2016, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PathfindingModifier":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(2048, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "WeldConstraint":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1504, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ManualGlue":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Folder":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1232, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ScriptDebugger":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TriangleMeshPart":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ILegacyStudioBridge":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ScreenGui":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(752, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Animator":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(960, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ABTestService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "GamePassService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Geometry":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "BlockMesh":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(128, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "IntConstrainedValue":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(64, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "SkateboardController":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ImporterMeshSettings":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DataModelPatchService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Beam":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1536, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "UserStorageService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DebuggerConnection":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Constraint":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1376, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "BindableFunction":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1056, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ReflectionMetadataCallbacks":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ImageHandleAdornment":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1728, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Hat":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(720, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Lighting":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(208, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TextChannel":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(2240, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "RenderSettings":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DataModelSession":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TextButton":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(816, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "AssetCounterService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TeleportOptions":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "VRService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TotalCountTimeIntervalItem":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ReflectionMetadataMember":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "LinearVelocity":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(2112, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PausedStateBreakpoint":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TextChatService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(2288, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "VehicleController":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "UISizeConstraint":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(416, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ProcessInstancePhysicsService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "LegacyStudioBridge":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TweenBase":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "FaceInstance":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "InventoryPages":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TextService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Plane":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(2144, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Atmosphere":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(448, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "UserService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ColorCorrectionEffect":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1328, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DoubleConstrainedValue":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(64, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "CookiesService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "MouseService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "RopeConstraint":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1424, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "SelectionBox":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(864, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "RobloxPluginGuiService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(736, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "FaceControls":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(2064, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "IncrementalPatchBuilder":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "AssetService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "MultipleDocumentInterfaceInstance":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "StarterGear":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(320, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Weld":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(544, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Controller":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Motor":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "BrowserService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "NetworkServer":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(240, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Glue":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "LayerCollector":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ManualWeld":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PathfindingLink":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(2192, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "BodyColors":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DebuggerBreakpoint":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "HeightmapImporterService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TremoloSoundEffect":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1344, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PoseBase":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(960, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PluginToolbar":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "SurfaceGui":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1024, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Bone":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1824, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "VirtualInputManager":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Status":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(32, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "MetaBreakpoint":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Pose":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(960, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "LuaWebService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "KeyboardService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "HingeConstraint":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1392, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "WorldRoot":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "GroupService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ContentProvider":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Pages":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "StudioData":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "BadgeService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Humanoid":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(144, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "GuiService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "MarketplaceService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(736, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TextChatConfigurations":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "CylinderHandleAdornment":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1744, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DataStoreKey":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "RunningAverageItemDouble":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TextBox":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(816, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "EulerRotationCurve":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "BodyMover":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "BinaryStringValue":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "CharacterAppearance":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Speaker":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(176, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "LocalStorageService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "BodyVelocity":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(224, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ImageButton":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(832, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "CylinderMesh":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(128, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "NumberValue":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(64, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ShirtGraphic":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(640, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "MotorFeature":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "CylindricalConstraint":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1520, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PluginMenu":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "BreakpointManager":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DebuggerWatch":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "SoundEffect":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "CollectionService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Configuration":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(928, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ConeHandleAdornment":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1760, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PathfindingService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Instance":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "LineForce":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1616, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "GlobalSettings":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "MemStorageConnection":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PlayerGui":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(736, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "LSPService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "HopperBin":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(352, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "FlyweightService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "UIConstraint":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DataStoreSetOptions":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ReflectionMetadataYieldFunctions":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ReplicatedStorage":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1120, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "SurfaceSelection":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(880, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "StandalonePluginScripts":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1248, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "FriendPages":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "StarterPack":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(320, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ScriptChangeService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ManualSurfaceJointInstance":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DynamicRotate":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DataStore":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "BaseScript":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ClusterPacketCache":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ChangeHistoryService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PlayerEmulatorService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ToastNotificationService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "RunningAverageItemInt":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DataStoreKeyInfo":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PartAdornment":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ClickDetector":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(656, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TeleportService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ScriptContext":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "RodConstraint":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1440, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "GenericSettings":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "AnimationClip":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "MaterialService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(2096, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Dialog":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(992, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ThirdPartyUserService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ThreadState":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Dragger":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "AnimationRigData":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ScriptCloneWatcher":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "CommandInstance":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Clouds":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(448, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Seat":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(560, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ImporterMaterialSettings":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ParticleEmitter":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1280, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "VoiceChatInternal":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TextBoxService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Debris":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(480, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "EmotesPages":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ImporterJointSettings":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "AvatarImportService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Flag":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(608, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "StopWatchReporter":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "GuiObject":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "RobloxReplicatedStorage":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "UserSettings":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Backpack":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(320, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ToolboxService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "OutfitPages":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Actor":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1808, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "NetworkMarker":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DataStoreKeyPages":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Translator":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "KeyframeSequenceProvider":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "UILayout":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "SunRaysEffect":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1328, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "FloatCurve":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DataStoreObjectVersionInfo":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Chat":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(528, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "MarkerCurve":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ScriptRegistrationService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Workspace":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(304, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "SelectionSphere":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(864, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PVInstance":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TrussPart":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(16, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "HandlesBase":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DataStoreService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DataStoreVersionPages":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "CoreScript":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "AssetDeliveryProxy":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PrismaticConstraint":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1408, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Motor6D":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1696, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ForceField":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(592, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "FunctionalTest":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TorsionSpringConstraint":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(2000, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "File":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Trail":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1488, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TouchTransmitter":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(592, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "InstanceAdornment":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Fire":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(976, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "RotationCurve":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DataStoreInfo":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ProximityPromptService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "VoiceChannel":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ReplicatedScriptService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1120, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "QWidgetPluginGui":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "BoolValue":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(64, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Hopper":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "SurfaceLight":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(208, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Rotate":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "BlurEffect":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1328, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Keyframe":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(960, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "LocalizationTable":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1552, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Message":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(528, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ImporterBaseSettings":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DebuggerUIService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PlayerMouse":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "LocalScript":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(288, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PublishService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PluginMouse":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "SpringConstraint":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1456, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "AdService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PluginDebugService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(736, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "SelectionLasso":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "RemoteEvent":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1200, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TextFilterResult":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "MessageBusConnection":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Smoke":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(944, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "InputObject":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "CompressorSoundEffect":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1344, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ImporterAnimationSettings":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "NotificationService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Torque":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1648, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "CornerWedgePart":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(16, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TaskScheduler":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "UniversalConstraint":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1968, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PointLight":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(208, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "RocketPropulsion":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(224, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "CanvasGroup":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(768, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ReplicatedFirst":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1120, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "SpotLight":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(208, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "NegateOperation":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1152, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "CommandService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "SoundGroup":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1360, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Tool":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(272, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Texture":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(160, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Breakpoint":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "BodyAngularVelocity":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(224, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TextChatMessageProperties":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Script":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(96, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "AnalyticsService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Terrain":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1040, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ConfigureServerService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "LodDataEntity":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "HttpRequest":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Sparkles":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(672, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PluginManager":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "AssetManagerService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "UIAspectRatioConstraint":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(416, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "FileMesh":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Shirt":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(688, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Studio":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PackageLink":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1568, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "GlobalDataStore":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "HandleAdornment":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "SolidModelContentProvider":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "CatalogPages":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "SkateboardPlatform":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(560, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DataModelMesh":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "UGCValidationService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "UIGridLayout":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(416, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "StudioScriptDebugEventListener":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PluginDragEvent":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "BaseWrap":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Mouse":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "NonReplicatedCSGDictionaryService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "VersionControlService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Decal":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(112, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Clothing":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "CharacterMesh":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(960, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "GuidRegistryService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "EchoSoundEffect":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1344, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "SurfaceAppearance":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(160, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "UIPageLayout":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(416, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "VehicleSeat":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(560, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DebugSettings":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ServerStorage":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1104, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "IntValue":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(64, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "FloorWire":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(64, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "LuauScriptAnalyzerService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "LanguageService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TestService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1088, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "StackFrame":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "VoiceSource":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(176, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "JointInstance":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(544, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "CorePackages":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(320, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DraftsService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DataStoreOptions":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Player":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(192, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "LogService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "AlignPosition":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1584, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "InsertService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "AppUpdateService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "HttpRbxApiService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ScrollingFrame":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(768, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "LoginService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "MeshPart":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1168, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "AngularVelocity":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1648, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Light":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(208, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "StarterPlayerScripts":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1248, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "RuntimeScriptService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TweenService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ScriptService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TeleportAsyncResult":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DialogChoice":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1008, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "NetworkClient":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(256, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Color3Value":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(64, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PackageService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DraggerService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "UserInputService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PartOperation":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "AvatarEditorService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ReflectionMetadataEnum":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "VoiceChatService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(2176, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Skin":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Pants":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(704, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "SoundService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(496, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "VisibilityService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "VirtualUser":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "StringValue":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(64, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Animation":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(960, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "HttpService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "RbxAnalyticsService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "CustomDspSoundEffect":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Model":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(32, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "UnvalidatedAssetService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Snap":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(544, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "VelocityMotor":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "UIStroke":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(416, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "UIGridStyleLayout":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "LocalDebuggerConnection":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TextLabel":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(800, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "UIComponent":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "UIBase":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "StudioHighDpiService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "BloomEffect":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1328, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DockWidgetPluginGui":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "RayValue":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(64, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Camera":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(80, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "BodyForce":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(224, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TemporaryScriptService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TextChatMessage":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ImporterTextureSettings":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ClientReplicator":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "FlagStandService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "StudioPublishService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ChannelSelectorSoundEffect":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1344, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Sound":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(176, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "StudioTheme":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "StudioService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PluginToolbarButton":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "StudioDeviceEmulatorService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "KeyframeMarker":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(960, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "EqualizerSoundEffect":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1344, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DataStoreIncrementOptions":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "BodyPosition":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(224, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "StatsItem":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Stats":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DataStoreListingPages":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Visit":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ReverbSoundEffect":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1344, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PausedStateException":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PitchShiftSoundEffect":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1344, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ProximityPrompt":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1984, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ControllerService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DebuggerVariable":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "CurveAnimation":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PolicyService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DistortionSoundEffect":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1344, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "HiddenSurfaceRemovalAsset":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PackageUIService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Platform":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(560, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "AnalysticsSettings":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ServiceProvider":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PausedState":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ScriptCloneWatcherHelper":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "IXPService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Frame":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(768, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "MaterialVariant":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(2080, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "GoogleAnalyticsConfiguration":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "RunService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "RemoteFunction":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1184, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PluginAction":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ReflectionMetadataProperties":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ReflectionMetadataEnumItem":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "GuiBase3d":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "SphereHandleAdornment":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1792, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ReflectionMetadataClass":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ReflectionMetadataEnums":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "AnimationFromVideoCreatorStudioService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ReflectionMetadata":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "BasePlayerGui":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ParabolaAdornment":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DepthOfFieldEffect":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1328, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PostEffect":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "UnionOperation":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1168, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "TextChatCommand":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(2208, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "WedgePart":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(16, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "AnimationClipProvider":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "MemoryStoreService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Plugin":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1376, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PlayerScripts":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1248, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Selection":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "GamepadService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "DataStorePages":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "AnimationTrack":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(960, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "SpawnLocation":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(400, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "FlagStand":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(624, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "NetworkSettings":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "PluginPolicyService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "NetworkReplicator":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(464, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Hint":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(528, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "MemoryStoreQueue":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "MemStorageService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "Tween":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ChatInputBarConfiguration":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(2272, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "StudioAssetService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "LuaSourceContainer":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ServerReplicator":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "RotateV":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "SelectionPointLasso":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(912, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "BoxHandleAdornment":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1776, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "LocalizationService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(1472, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "UICorner":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(416, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "CalloutService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "UITableLayout":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(416, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "UIGradient":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(416, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "ContextActionService":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "RigidConstraint":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(2160, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
+   },
+   "CacheableContentProvider":{
+      "Image":"rbxasset://textures/ClassImages.png",
+      "ImageRectOffset":"Vector2.new(0, 0)",
+      "ImageRectSize":"Vector2.new(16, 16)"
    }
-]
+}
